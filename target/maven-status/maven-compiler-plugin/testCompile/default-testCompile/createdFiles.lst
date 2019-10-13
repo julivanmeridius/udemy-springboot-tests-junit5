@@ -1,0 +1,7 @@
+petclinic/model/OwnerTest.class
+petclinic/services/springdatajpa/OwnerSDJpaServiceTest.class
+petclinic/resources/IndexResourceTest.class
+petclinic/resources/VetResourceTest.class
+petclinic/main/GreetingTest.class
+petclinic/model/PersonTest.class
+petclinic/mapping/ModelMapImpl.class
